@@ -16,5 +16,7 @@ pip install -r requirements.txt
 ## Implement
 ```python
 python wordcloud_category.py --category 'nongsan'
+
+# nongsan, susan, chunksan
 ```
 
