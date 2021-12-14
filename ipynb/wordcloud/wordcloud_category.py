@@ -24,7 +24,8 @@ def displayWordCloud(data,
 
     Args:
         data: Tokenized noun word list
-        custom_mask: Wordcloud shape you want
+        pont_path: Wordcloud font you want
+        mask_image: Wordcloud shape you want
         stopwords_kr: Words that are not included in the wordcloud
     
     Print:    
